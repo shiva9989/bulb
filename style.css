@@ -1,0 +1,19 @@
+div{
+    
+    
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+*{
+    background: black;
+    color: aliceblue;
+}
+img{
+    margin-left: 600px;
+    height: 518px;
+    width:292px;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
